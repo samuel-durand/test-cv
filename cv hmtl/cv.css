@@ -1,0 +1,39 @@
+
+
+.name {
+
+   color: rgb(0, 0, 0); 
+   font-size: 50px;
+   text-align: left center;
+   font-family: 'Merriweather', bold;
+}
+
+.title {
+    color: rgb(0, 119, 255);
+    font-size: 20px;
+    font-family: 'Open Sans', bold;
+}
+
+.date {
+    color: rgb(206, 197, 197);
+}
+
+.rightitle {
+    color: rgb(0, 119, 255);
+    font-family: 'Open Sans', bold;
+
+    text-align: right;
+
+}
+
+.righttext {
+
+
+    text-align: right;
+
+}
+
+.text{
+    font-family: 'Merriweather', bold;
+
+}
